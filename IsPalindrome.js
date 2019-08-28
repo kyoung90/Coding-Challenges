@@ -1,6 +1,8 @@
 //A simple recursive Javascript solution to check if a string is a palindrome
 
 //Palindrome means that the string spelled backwards is still the same
+
+//Examples
 //isPalidrome(tacocat) // true
 //isPalindrome(racecar) // true
 //isPalindrome(pizza) // false
